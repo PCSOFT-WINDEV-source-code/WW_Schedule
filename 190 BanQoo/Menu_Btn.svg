@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1" x="0px" y="0px" width="320px" height="24px" viewBox="0 0 320 24" enable-background="new 0 0 320 24" xml:space="preserve">
+<g id="Effet_NoPatch" display="none">
+</g>
+<path fill="#2aedff" d="M78,21c0,1.1-0.9,2-2,2H4c-1.1,0-2-0.9-2-2V3c0-1.1,0.9-2,2-2h72c1.1,0,2,0.9,2,2V21z"/>
+<path fill="#eeebe8" d="M77,21c0,0.55-0.45,1-1,1H4c-0.55,0-1-0.45-1-1V3c0-0.55,0.45-1,1-1h72c0.55,0,1,0.45,1,1V21z"/>
+<path fill="#2aedff" d="M158,21c0,1.1-0.9,2-2,2H84c-1.1,0-2-0.9-2-2V3c0-1.1,0.9-2,2-2h72c1.1,0,2,0.9,2,2V21z"/>
+<path fill="#e8c6b0" d="M157,21c0,0.55-0.45,1-1,1H84c-0.55,0-1-0.45-1-1V3c0-0.55,0.45-1,1-1h72c0.55,0,1,0.45,1,1V21z"/>
+<path fill="#2aedff" d="M238,21c0,1.1-0.9,2-2,2h-72c-1.1,0-2-0.9-2-2V3c0-1.1,0.9-2,2-2h72c1.1,0,2,0.9,2,2V21z"/>
+<path fill="#e8c6b0" d="M237,21c0,0.55-0.45,1-1,1h-72c-0.55,0-1-0.45-1-1V3c0-0.55,0.45-1,1-1h72c0.55,0,1,0.45,1,1V21z"/>
+<path opacity="0.25" fill="#2aedff" d="M318,21c0,1.1-0.9,2-2,2h-72c-1.1,0-2-0.9-2-2V3c0-1.1,0.9-2,2-2h72c1.1,0,2,0.9,2,2V21z"/>
+<path opacity="0.25" fill="#eeebe8" d="M317,21c0,0.55-0.45,1-1,1h-72c-0.55,0-1-0.45-1-1V3c0-0.55,0.45-1,1-1h72c0.55,0,1,0.45,1,1  V21z"/>
+</svg>

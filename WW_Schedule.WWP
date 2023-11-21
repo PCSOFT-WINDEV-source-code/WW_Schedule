@@ -1,0 +1,131 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Schedule
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : The purpose of the project is to manage an online schedule
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WW_Schedule
+    internal_properties : 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
+    configuration_id : 4279849151691346779
+    type : 2
+    generation_name : WW_Schedule.wdl
+    version : {}
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x4ac4d28d001125dd
+  elements :
+   -
+     name : PAGE_Schedule
+     identifier : 0x43c918d7027c9c01
+     internal_properties : CAAAAAgAAAAdeXUplsNrdMLKKyZmezodS2gGniTeH2OKlF+xhL9X+RvFXr7Dfxj8r5YA+Lgo0MAICA==
+     physical_name : .\PAGE_Schedule.wwh
+     type : 65538
+   -
+     name : SET_HFSQLTEST
+     identifier : 0x425d0d98008a0ecb
+     internal_properties : CAAAAAgAAADtacXZ5lPbhKl8zdMvmMItC7iGDjuKi+BWXWeuj5MD3WeJ8jI6x6kx+iaQaCjYoBD4eA==
+     physical_name : .\SET_HFSQLTEST.wdg
+     type : 7
+   -
+     name : TEST_SET_HFSQLTEST
+     identifier : 0x425d0da4008c3d0f
+     internal_properties : CAAAAAgAAABNyaX5xrP7JAkcbfMPee7ZMwJqQn1EjoGyMnJbkpD67t42IRNa58nRWsYwiAj4gHBY2A==
+     physical_name : .\TEST_SET_HFSQLTEST.wxt
+     type : 17
+   -
+     name : PAGETPL_Center
+     identifier : 0x43c918b602691bda
+     internal_properties : CAAAAAgAAADySCp+zbryLTUhEgiRQ3T9zO+bw+Ntv7BKKECYh2wo8AzCOGPxyQ3zVs03gQH/++3XXw==
+     physical_name : .\PAGETPL_Center.wwt
+     type : 65541
+   -
+     name : QRY_EmployeeTodayTask
+     identifier : 0x456da65100031158
+     internal_properties : CAAAAAgAAADasIKGJWJKVWg7gBbiF9dCPEPrswx+CwFS+vNyDpryFjbYQeN3gm50OeXf2VmXY1W/Rw==
+     physical_name : .\QRY_EmployeeTodayTask.WDR
+     type : 5
+  other_elements :
+   -
+     physical_name : .\description.gif
+  analysis : .\SCHEDULE.ana\SCHEDULE.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ wb_skin : 190 BanQoo
+ wb_color_palette : Billion
+ languages :
+  - en-GB
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_Schedule
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAACXnDGpWBZsVIQksncNPNX2kAHwhsY4j6JF3SRMI9KUwSBsmRBgxF+5TrUtjBTeka2yT3v9EUMh9MnyLFz2bKHTTrpEZkBIvn8=
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABnUWat7Rv1svuAG+6YI0BZP6HEEPjRI6eT/u/EJLHnh0Wobgxr9Mmh7C+fkLSCBS7jHnJ8AHiQQlgHTnMirkwuh+8SYT9iXs7uaNhyWKCmdAVHlkks+SxNmuq7wsEnlb7/c20fnHh+RgiqWwA=
+     code : |1+
+      
+      // Default date
+      gdDate is date = Today()
+      
+      // Initialize the bank holidays (for France and overseas territories)
+      BankHolidayDeleteAll()
+      //
+      BankHolidayAdd("0101")	// New year
+      BankHolidayAdd("0501")	// Labour day
+      BankHolidayAdd("0508")	// Armistice of 1945
+      BankHolidayAdd("0714")	// Bastille day 
+      BankHolidayAdd("0815")	// Assumption
+      BankHolidayAdd("1101")	// All Saints' Day
+      BankHolidayAdd("1111")	// Armistice of 1918
+      BankHolidayAdd("1225")	// Christmas
+      BankHolidayAdd(bhEasterDay)			// Easter
+      BankHolidayAdd(bhEasterMonday)		// Easter Monday
+      BankHolidayAdd(bhAscensionDay)	// Ascension
+      BankHolidayAdd(bhWhitMonday)		// Whit Monday
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WW_Schedule
+     identifier : 0x4ac4d28d00172734
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WW_Planning
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

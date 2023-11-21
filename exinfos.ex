@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WW_Schedule
+image=description.gif
+description=description.rtf
+source=1
+typesite=0
+[OBJECT]
+WW_Schedule.WWP=4096
